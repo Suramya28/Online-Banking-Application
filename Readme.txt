@@ -1,6 +1,3 @@
-Suramya Singh: suramyasingh28@csu.fullerton.edu
-
-I have included all the html pages in views folder
 
 Run node server.js
 
